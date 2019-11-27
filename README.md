@@ -3,7 +3,14 @@ En este trabajo se va a realizar dos comparaciones acerca de páginas web y una 
 
 # **IMPORTANTE**
 
-Se deben descomprimir los ficheros .rar en la misma carpeta, es decir, hacer clic en _"extraer aquí"_
+Se debe permitir que tu cuenta de Google Drive permita el acceso a la API de tidyverse.
+Para ello, se puede realizar de la siguiente manera:
+1. Pegar el código que se muestra a continuación en la consola de R
+url <- 'https://drive.google.com/open?id=1rH77SXASYRNZCcp3sk60w9FhehI9lFsT'
+drive_download(url, overwrite = TRUE)
+2. La consola de R te preguntara si le das permiso y escribimos _Yes_ en la consola.
+3. Se abrirá una ventana en tu navegador predeterminado y concederás acceso a la API para que pueda descargar los archivos
+4. Ya puedes ejecutar el código de R-MarkDown!
 
 # Librerías requeridas
 
