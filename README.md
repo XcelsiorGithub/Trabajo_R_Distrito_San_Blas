@@ -1,6 +1,10 @@
 # Trabajo_R_Distrito_San_Blas
 En este trabajo se va a realizar dos comparaciones acerca de páginas web y una gran depuración y un estudio de los datos de las reservas u ocupaciones que se realizan en el polideportivo de San Blas
 
+# **IMPORTANTE**
+
+Se deben descomprimir los ficheros .rar en la misma carpeta, es decir, hacer clic en _"extraer aquí"_
+
 # Librerías requeridas
 
 Se requieren las siguientes librerías
