@@ -28,8 +28,8 @@ Se requieren las siguientes librerías
 - _lubridate_
 - _knitr_
 - _kableExtra_
-
+```
 install.packages(c('rvest', 'ggplot2', 'googledrive', 'plotly', 'highcharter', 'readxl', 'ggthemes', 'highcharter', 'lubridate', 'knitr', 'kableExtra')
-
+```
 # Tiempo de carga
 **Aviso**: Al tener mucha depuración y que al no ser recomendable subir los datos a GitHub, he tenido que descargarlos desde google drive y leerlos desde alli, pero el archivo a descargar ocupa 50 MB, por lo tanto requiere un tiempo de ejecución (con el _"knitr"_) de aproximadamente 2 minutos y 15 segundos
